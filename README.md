@@ -14,4 +14,4 @@ Group and aggregate data by year, then visualize the results as a bar chart to i
 
 4) Build an Interactive Neighborhood Map: Read neighborhood coordinates data, create DataFrames for neighborhood information, and visualize the data using an interactive map. Identify neighborhoods with the highest gross rent and sale price per square foot.
 
-5) Compose Your Data Story: Summarize trends in rental income growth and sales prices across neighborhoods. Provide insights on viable investment opportunities and suggested neighborhoods for investment based on the analysis.
+5) Compose Data Story: Summarize trends in rental income growth and sales prices across neighborhoods. Provide insights on viable investment opportunities and suggested neighborhoods for investment based on the analysis.
